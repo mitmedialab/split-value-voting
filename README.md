@@ -1,5 +1,7 @@
 Python3 code for Rabin/Rivest end-to-end split-value voting method(s).
 
+> Note: The MIT team referenced their project to this code base and the corresponding [paper](https://people.csail.mit.edu/rivest/pubs/RR14a.pdf) for the [Harvard TechSoc Global Hackathon](https://www.hlshackathon.org/about) on elections on April 15, 2018 at Harvard Law School.
+
 This code is under development.  It appears to be working
 correctly as intended, but could use a bit of cleanup in details.
 It is for simulating an election (not for actually running an election),
